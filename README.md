@@ -1,4 +1,4 @@
-# Retail-Sales-Data-Warehousing-Project
+# Retail-Sales-Insights-and-Forecasting--A-Data-Warehousing-Project
 
 ## Data Warehouse and Analytical Queries Setup
 
